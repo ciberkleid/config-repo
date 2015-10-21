@@ -1,8 +1,8 @@
 pivotal:
   app:
     symbols:
-      it: EMC,IBM,VMW
-      fs: JPM,C,BAC
+      it: EMC,VMW,HP
+      fs: JPM,C,MS,BAC,GS,WFC
 ---
 spring:
   profiles: local
