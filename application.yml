@@ -13,9 +13,9 @@ eureka:
 logging:
   level:
      io:
-        pivotal: WARN
+        pivotal: INFO
      com:
-        netflix: WARN
+        netflix: INFO
 
 endpoints:
    health:
