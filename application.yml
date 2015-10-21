@@ -13,9 +13,9 @@ eureka:
 logging:
   level:
      io:
-        pivotal: INFO
+        pivotal: DEBUG
      com:
-        netflix: INFO
+        netflix: DEBUG
 
 endpoints:
    health:
